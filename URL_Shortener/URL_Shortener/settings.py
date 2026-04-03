@@ -8,7 +8,7 @@ SECRET_KEY = 'django-insecure-m32)z%7yf_i=zb(vw*y5gp=%szbl3pbc=i_#s1actf!2$j1-%t
 
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['.onrender.com']
 
 # APPLICATIONS
 INSTALLED_APPS = [
